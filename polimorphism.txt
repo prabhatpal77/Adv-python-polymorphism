@@ -1,0 +1,4 @@
+Polimorphism:- Poly---->Many, Morphism-----> Forms.
+* Forms are functionalilies or logics.
+The concept of defining many functionalities ar logics to perform the same operations is known as a polimorphism.
+Polymorphism can be implemented through method overloading or method overriding.
